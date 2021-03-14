@@ -11,7 +11,7 @@ you are good to go!
 
 Youtube video:
 Win32DiskImager:
-Mega Download Link:
+Mega Download Link:https://mega.nz/file/Ts8AAYZL#3amYRgSqJyky4XdSu9RyxwVQi77mN7pWFckKbRvTb7c
 Google Drive Download Link:
 
 Default username and password:
