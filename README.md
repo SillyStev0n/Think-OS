@@ -9,10 +9,7 @@ The image available to download is only compatible with the Libre Computer ALL-H
 The image provided is a 16GB image that needs to be unxipped and flashed using Win32DiskImager. Once complete just pop it in top the Libre PC and
 you are good to go!
 
-Youtube video:
-Win32DiskImager:
 Mega Download Link:https://mega.nz/file/Ts8AAYZL#3amYRgSqJyky4XdSu9RyxwVQi77mN7pWFckKbRvTb7c
-Google Drive Download Link:
 
 Default username and password:
 Username: tosuser
