@@ -11,6 +11,8 @@ you are good to go!
 
 Youtube video:
 Win32DiskImager:
+Mega Download Link:
+Google Drive Download Link:
 
 Default username and password:
 Username: tosuser
